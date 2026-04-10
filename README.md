@@ -1,3 +1,9 @@
+https://github.com/rahulsheno/distributed_monitor_dashboard
+# team details
+PES2UG24AM129-RAHUL VIVEK SHENOY
+PES2UG24AM083-SHANMUGA VEL
+PES2UG24AM085-MANISH.S
+
 # Distributed Node Monitor
 
 > Real-time infrastructure monitoring system built with Python, Flask, Socket.IO, ECharts, and SQLite.
