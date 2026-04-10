@@ -6,7 +6,7 @@
 ## Github Link : 
 https://github.com/rahulsheno/distributed_monitor_dashboard
 
-# Team details
+# Team Details
 * PES2UG24AM129-RAHUL VIVEK SHENOY
 * PES2UG24AM083-SHANMUGA VEL
 * PES2UG24AM085-MANISH.S
@@ -145,8 +145,6 @@ Session-based login. Two accounts are hard-coded in the `users` dict:
 |----------|------------|-------|
 | `admin`  | `admin123` | admin |
 | `user`   | `user123`  | user  |
-
-> ⚠️ Credentials are plain text in source. Replace with hashed passwords before any networked deployment.
 
 #### Routes
 
